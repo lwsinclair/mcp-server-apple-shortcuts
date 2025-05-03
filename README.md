@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/recursechat-mcp-server-apple-shortcuts-badge.png)](https://mseep.ai/app/recursechat-mcp-server-apple-shortcuts)
+
 # Apple Shortcuts MCP Server 🤖
 
 A Model Context Protocol (MCP) server that lets AI assistants like Claude control Apple Shortcuts automations. This enables AI models to trigger shortcuts and automate tasks on macOS in a safe and controlled way.
